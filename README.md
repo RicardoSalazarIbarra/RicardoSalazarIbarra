@@ -56,13 +56,15 @@ Me enfoco en crear aplicaciones escalables, componentes reutilizables y experien
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RicardoSalazarIbarra&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=RicardoSalazarIbarra&show_icons=true&theme=github_dark&hide_border=true&locale=es" 
+    alt="Estadísticas de GitHub"
   />
+</p>
 
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSalazarIbarra&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSalazarIbarra&layout=compact&theme=github_dark&hide_border=true&locale=es" 
+    alt="Lenguajes más usados"
   />
 </p>
 
